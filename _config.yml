@@ -1,0 +1,12 @@
+# Site settings
+title: D4prog.github.io
+email: 413834@m.mie-u.ac.jp
+description: > # this means to ignore newlines until "baseurl:"
+  for program
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://D4prog.github.io" # the base hostname & protocol for your site
+twitter_username: D4prog
+github_username:  D4prog
+
+# Build settings
+markdown: kramdown
