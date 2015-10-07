@@ -3,4 +3,4 @@
 	url = https://github.com/github/octicons.git
 [submodule "code-prettify"]
 	path = code-prettify
-	url = git@github.com:D4prog/code-prettify.git
+	url = https://github.com/D4prog/code-prettify.git
